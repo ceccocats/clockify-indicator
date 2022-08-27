@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   fill="none"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="clockify-icon.svg"
+   inkscape:version="1.2.1 (2ed6d7ae0b, 2022-08-22, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.4257812"
+     inkscape:cx="69.619156"
+     inkscape:cy="128.2919"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="71"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <rect
+     width="227"
+     height="256"
+     fill="black"
+     fill-opacity="0"
+     transform="translate(14)"
+     id="rect18" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M165.124 87.9908L223.901 29.1758L240.726 45.9988L181.948 104.814L165.124 87.9908ZM141.307 148.095C129.804 148.095 120.485 138.735 120.485 127.177C120.485 115.631 129.804 106.259 141.307 106.259C152.81 106.259 162.129 115.631 162.129 127.177C162.129 138.735 152.81 148.095 141.307 148.095ZM241 208.845L224.176 225.68L165.398 166.864L182.223 150.029L241 208.845Z"
+     fill="#222222"
+     id="path20"
+     style="fill:#ffffff" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M141.913 217.637C153.761 217.637 165.049 215.273 175.395 211.07L204.103 239.81C185.692 250.089 164.5 256 141.913 256C71.2745 256 14 198.689 14 128.006C14 57.3107 71.2745 0 141.913 0C164.274 0 185.275 5.76691 203.554 15.8561L175.323 44.1173C164.99 39.9384 153.738 37.5743 141.913 37.5743C92.4422 37.5743 52.3381 77.8829 52.3381 127.612C52.3381 177.328 92.4422 217.637 141.913 217.637Z"
+     fill="#03A9F4"
+     id="path22"
+     style="fill:#ffffff" />
+</svg>
